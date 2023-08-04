@@ -22,6 +22,13 @@ https://www.pergear.com/products/infiray-p2-pro
 ![THUMB_arduino_thermal_camera2](https://github.com/upiir/arduino_infrared_camera/assets/117754156/2f3cb6aa-7243-4bab-8f3e-4e7a5ee9918d)
 
 
+Small animation:
+
+![arduino_thermal_camera_gif](https://github.com/upiir/arduino_infrared_camera/assets/117754156/ef1d8d1f-4701-491e-a540-dfb5645b2476)
+
+
+
+
 
 Screenshots from the video:
 
