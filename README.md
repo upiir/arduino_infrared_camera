@@ -27,6 +27,21 @@ Small animation:
 ![arduino_thermal_camera_gif](https://github.com/upiir/arduino_infrared_camera/assets/117754156/ef1d8d1f-4701-491e-a540-dfb5645b2476)
 
 
+More Animations:
+![infra_water](https://github.com/upiir/arduino_infrared_camera/assets/117754156/4cc52249-d1be-456e-abff-c23fbc1bde81)
+
+
+![infra_hand](https://github.com/upiir/arduino_infrared_camera/assets/117754156/24b589c6-a112-4989-b076-3e776ce81f22)
+
+
+![infra_fire](https://github.com/upiir/arduino_infrared_camera/assets/117754156/360e2169-dc8c-48e7-92f1-abe3323cce38)
+
+
+![infra_cofee](https://github.com/upiir/arduino_infrared_camera/assets/117754156/920d8c31-888c-4dcf-acd8-b701febcfdde)
+
+
+
+
 
 
 
