@@ -1,7 +1,7 @@
 # Arduino Infrared Camera
 Arduino Infrared Camera
 
-
+**YOUTUBE VIDEO: https://youtu.be/cKRsBncP3Vo**
 
 Links from the video:
 
@@ -17,6 +17,10 @@ Links from the video:
 
 Get 10% discount for P2 thermal camera with code: P2PRO0602
 https://www.pergear.com/products/infiray-p2-pro 
+
+
+![THUMB_arduino_thermal_camera2](https://github.com/upiir/arduino_infrared_camera/assets/117754156/2f3cb6aa-7243-4bab-8f3e-4e7a5ee9918d)
+
 
 
 Screenshots from the video:
